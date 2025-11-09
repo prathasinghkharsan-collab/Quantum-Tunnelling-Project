@@ -1,0 +1,11 @@
+streamlit==1.51.0
+numpy
+matplotlib
+pandas
+altair
+protobuf
+pydeck
+requests
+tenacity
+watchdog
+imageio[ffmpeg]
